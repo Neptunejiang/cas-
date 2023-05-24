@@ -1,0 +1,10 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    org.jeecg.modules.UsernamePasswordCaptchaConfig
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+#    org.jeecg.modules.CaptchaConfigurer,\
+#    org.jeecg.modules.KaptchaConfig,\
+#    org.jeecg.modules.UsernamePasswordCaptchaConfig,\
+#    org.jeecg.modules.SpringContextUtils
+
+
+
